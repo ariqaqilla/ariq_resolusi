@@ -3,10 +3,12 @@ RENCANA KONTEN ARIQ
 - HTML
 * HTML 5
 * NEW FEATURES
-- Struktur Data Dasar
 - CSS
-- JS
-- PHP
+- JS Frameworks
+* Angular
+* React
+- PHP Frameworks
+* Laravel
 - MYSQL
 
 PRO DALAM 3 TAHUN ATAU LULUS SMK
