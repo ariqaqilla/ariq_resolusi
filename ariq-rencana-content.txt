@@ -3,7 +3,6 @@ RENCANA KONTEN ARIQ
 - HTML
 * HTML 5
 * NEW FEATURES
-- Struktur Data Dasar
 - CSS
 - JS Frameroks 
 * Vue
