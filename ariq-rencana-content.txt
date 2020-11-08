@@ -5,7 +5,9 @@ RENCANA KONTEN ARIQ
 * NEW FEATURES
 - Struktur Data Dasar
 - CSS
-- JS
+- JS Frameroks 
+* Vue
+* React
 - PHP Frameworks
 * Laravel
 - MYSQL
