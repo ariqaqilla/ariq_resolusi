@@ -5,8 +5,12 @@ RENCANA KONTEN ARIQ
 * NEW FEATURES
 - Struktur Data Dasar
 - CSS
-- JS
-- PHP
+- JS Frameroks 
+* Vue
+* React
+- PHP Frameworks
+* Laravel
 - MYSQL
+- Python
 
 PRO DALAM 3 TAHUN ATAU LULUS SMK
