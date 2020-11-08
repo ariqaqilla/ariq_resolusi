@@ -6,7 +6,9 @@ RENCANA KONTEN ARIQ
 - Struktur Data Dasar
 - CSS
 - JS
-- PHP
+- PHP Frameworks
+* Laravel
 - MYSQL
+- Python
 
 PRO DALAM 3 TAHUN ATAU LULUS SMK
